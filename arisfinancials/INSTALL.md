@@ -1,0 +1,1 @@
+1. install `npm install --save @alpacahq/alpaca-trade-api`
